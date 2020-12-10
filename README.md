@@ -1,4 +1,4 @@
-﻿**Disease classifications using chest x-rays** 
+﻿# **Disease classifications using chest x-rays** 
 
 Here is the reimplementation of chexnet. Things we done from the paper are
 
